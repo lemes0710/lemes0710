@@ -1,20 +1,13 @@
-### bem vindo ao meu perfil !!
+### bem vindo(a) ao meu perfil😎 
 
-me chamo Josè Lemes
+Meu nome é José lemes
+-  Estou estudando no [alura](https://www.alura.com.br).
+-  Estou me desenvolvendo na linguagem JavaScript.
+-  Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+  
+### você pode entrar em contato comigo 📫
 
--estou cada vez mais deselvolvendo nas plataformas do alura 
--por que você não entra nessa comigo?
--você pode entrar em contato comigo atravèz desse email: 
--0001114479342sp@al.educacao.sp.gov.br
+00001114479342sp@al.educacao.sp.gov.br
 
 ![](https://media1.tenor.com/m/adsYsVdDmAgAAAAC/solo-leveling-sung-jin-woo.gif)
--
--
--
--
--
--
--
--
--
--
+
